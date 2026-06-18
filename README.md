@@ -134,7 +134,7 @@ marketing-campaign-performance-dashboard/
 
 ## Author
 
-Yuvaraj Kumar
+Nitheyashri D
 
 Marketing Campaign Performance Analysis Project
 Built using Python, Power BI, and GitHub.
